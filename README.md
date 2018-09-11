@@ -1,5 +1,6 @@
 # TenantUnionPlus
 Web project for CS411. Helps students find ideal apartment.
+server.py is the file where most parts of the code are.
 
 # To start:
 <!-- 0. run
