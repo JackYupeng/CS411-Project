@@ -1,7 +1,9 @@
 # TenantUnionPlus
-Web project for CS411. Helps students of UIUC find ideal apartment.
+A project for CS411.
 
-Used Flask as the web framework
+A Web application that helps students of UIUC find ideal apartments.
+
+Flask is used as the web framework.
 
 server.py is the file where most parts of the code are.
 
