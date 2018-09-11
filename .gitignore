@@ -1,0 +1,16 @@
+TenantUnionPlusServer/client_secret.json
+TenantUnionPlusServer/*.pyc
+TenantUnionPlusServer/__pycache__/
+TenantUnionPlusServer/useless(maybe)/
+TenantUnionPlusServer/static/
+!TenantUnionPlusServer/static/account.svg
+TenantUnionPlus.egg-info/
+TenantUnionPlusServer/crawler/.DS_Store
+TenantUnionPlusServer/example/.DS_Store
+TenantUnionPlusServer/pages/.DS_Store
+TenantUnionPlusServer/sql/.DS_Store
+TenantUnionPlusServer/static/.DS_Store
+TenantUnionPlusServer/template/.DS_Store
+TenantUnionPlusServer/.DS_Store
+material-kit-html-v2.0.2
+**/.DS_Store
